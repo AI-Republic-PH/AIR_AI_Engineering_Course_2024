@@ -5,6 +5,14 @@ Repo for AI Republic's AI Engineering Course - Winter 2024
 **Start Date**: October 5, 2024  
 **Schedule**: Every Saturday (except November 2nd, Holiday)
 
+**Instructors**:
+- Carlo Almendral
+- Doc Ligot 
+- Xavier Puspus
+- Danielle Meer
+- Xy De Mesa
+- Amber Teng
+
 ---
 
 ## Day 1: Introduction to Large Language Models (LLMs) and NLP Basics
