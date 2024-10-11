@@ -20,6 +20,24 @@ Repo for AI Republic's AI Engineering Course - Winter 2024
 ### Overview:
 Gain a foundational understanding of Large Language Models (LLMs) and Natural Language Processing (NLP).
 
+### Agenda:
+
+| **Topic**                                    | **Time**                 |
+|----------------------------------------------|-------------------------|
+| **Introduction**                             | 9:00 AM - 9:30 AM       |
+| **Ethics in AI**                             | 9:30 AM - 10:30 AM      |
+| **Introduction to NLP (Slides)**             | 10:30 AM - 11:00 AM     |
+| **Introduction to NLP (Notebook)**           | 11:00 AM - 11:30 AM     |
+| **Text Processing Activity**                 | 11:30 AM - 12:00 PM     |
+| **Lunch**                                    | 12:00 PM - 1:00 PM      |
+| **Introduction to LLMs**                     | 1:00 PM - 1:30 PM       |
+| **Open-Source vs Closed-Source LLMs**        | 1:30 PM - 2:00 PM       |
+| **Try Your Own LLM Activity**                | 2:00 PM - 2:30 PM       |
+| **Environment Setup**                        | 2:30 PM - 3:00 PM       |
+| **Hands-on Activity: Sentiment Analysis on IMDB** | 3:00 PM - 4:30 PM       |
+| **Introduction to Capstone Project**         | 4:30 PM - 5:00 PM       |
+
+
 ### Topics:
 - AI & Ethics 
 - Fundamentals of NLP and its practical applications
