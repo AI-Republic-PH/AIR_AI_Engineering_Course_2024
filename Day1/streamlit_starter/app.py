@@ -8,7 +8,7 @@ def load_model():
 
 # Streamlit app
 def main():
-    st.title("Simple Sentiment Analysis")
+    st.title("Streamlit Sentiment Analysis")
     st.write("Enter some text, and we'll analyze its sentiment!")
 
     # Load the model

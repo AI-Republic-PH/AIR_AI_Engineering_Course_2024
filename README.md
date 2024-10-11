@@ -53,6 +53,8 @@ Construct a simple NLP pipeline, including text preprocessing, tokenization, and
 ### Outcome:
 Participants will grasp the essentials of NLP and LLMs, and build a basic NLP pipeline.
 
+[Sentiment Classifier](https://sentimentclassifier.streamlit.app/)
+
 ---
 
 ## Day 2: Open-Source LLMs with Hugging Face Transformers
