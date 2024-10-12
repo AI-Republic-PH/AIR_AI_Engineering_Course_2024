@@ -4,3 +4,4 @@ datasets
 torch
 plotly
 spacy
+spacytextblob

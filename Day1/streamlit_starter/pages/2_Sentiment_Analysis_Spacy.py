@@ -2,10 +2,11 @@ import streamlit as st
 import spacy
 from spacytextblob.spacytextblob import SpacyTextBlob
 
-# Load the spaCy model and add the TextBlob sentiment analysis pipeline
+# Load the spaCy model
 nlp = spacy.load("en_core_web_sm")
-spacy_text_blob = SpacyTextBlob()
-nlp.add_pipe(spacy_text_blob)
+
+# Add the TextBlob sentiment analysis pipeline
+nlp.add_pipe("spacytextblob")
 
 # Title and instructions for the app
 st.title("Sentiment Analysis App")
@@ -33,4 +34,3 @@ if user_input:
     # Display the sentiment and the polarity score
     st.write(f"**Sentiment**: {sentiment_label}")
     st.write(f"**Polarity Score**: {sentiment_polarity}")
-
