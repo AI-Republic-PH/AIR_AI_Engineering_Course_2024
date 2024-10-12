@@ -20,6 +20,8 @@ Repo for AI Republic's AI Engineering Course - Winter 2024
 ### Overview:
 Gain a foundational understanding of Large Language Models (LLMs) and Natural Language Processing (NLP).
 
+Slides for today:  https://docs.google.com/presentation/d/1C3Hx8F_cJKvGfEPX9B1UnEJX2FUlAB34rTjO7KBjyIY/edit?usp=sharing 
+
 ### Agenda:
 
 | **Topic**                                    | **Time**                 |
