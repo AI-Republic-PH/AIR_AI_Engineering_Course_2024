@@ -22,7 +22,7 @@ Gain a foundational understanding of Large Language Models (LLMs) and Natural La
 
 Slides for today:  https://docs.google.com/presentation/d/1C3Hx8F_cJKvGfEPX9B1UnEJX2FUlAB34rTjO7KBjyIY/edit?usp=sharing
 
-[Day 1 Course Notes and Blog Post]([https://sentimentclassifier.streamlit.app/](https://medium.com/@angelamarieteng/an-introduction-to-nlp-and-llms-in-the-age-of-ai-773fe649ecc8))
+[Day 1 Course Notes and Blog Post](https://medium.com/@angelamarieteng/an-introduction-to-nlp-and-llms-in-the-age-of-ai-773fe649ecc8)
 
 ### Agenda:
 
