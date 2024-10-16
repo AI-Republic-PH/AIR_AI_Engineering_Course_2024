@@ -66,6 +66,9 @@ Participants will grasp the essentials of NLP and LLMs, and build a basic NLP pi
 ### Overview:
 Dive into the Hugging Face ecosystem to work with open-source LLMs.
 
+Slides for today: 
+- https://gamma.app/docs/Open-Source-LLMs-with-Hugging-Face--u7p82iidtui64pt
+
 ### Topics:
 - Introduction to the Hugging Face library and its tools
 - Loading and working with pre-trained models and tokenizers
@@ -74,7 +77,7 @@ Dive into the Hugging Face ecosystem to work with open-source LLMs.
 - Evaluating LLM performance with appropriate metrics
 
 ### Hands-On Activity:
-Fine-tune a pre-trained Hugging Face model for a text classification task and implement a few-shot learning scenario using a text generation model.
+Fine-tune a pre-trained Hugging Face model for a text classification task.
 
 ### Outcome:
 Participants will learn to fine-tune, evaluate, and implement Hugging Face models for specific tasks, gaining insight into few-shot learning.
