@@ -66,6 +66,8 @@ Participants will grasp the essentials of NLP and LLMs, and build a basic NLP pi
 ### Overview:
 Dive into the Hugging Face ecosystem to work with open-source LLMs.
 
+[Day 2 Course Notes and Blog Post](https://medium.com/ai-advances/an-introduction-to-the-huggingface-library-and-finetuning-with-huggingface-0d3599fc91a3)
+
 Slides for today: 
 - https://gamma.app/docs/Open-Source-LLMs-with-Hugging-Face--u7p82iidtui64pt
 
