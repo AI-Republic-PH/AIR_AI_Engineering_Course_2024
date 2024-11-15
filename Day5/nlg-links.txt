@@ -4,3 +4,8 @@ https://www.marketingaiinstitute.com/blog/the-beginners-guide-to-using-natural-l
 
 # What is Descriptive Statistics?
 https://www.investopedia.com/terms/d/descriptive_statistics.asp
+
+---
+
+# NLG notebook template
+https://colab.research.google.com/drive/1gHJBguYQKwoqXETuBcctmGNLL1lHxa_s?usp=sharing
