@@ -1,6 +1,7 @@
 # What is NLG?
 https://www.geeksforgeeks.org/artificial-intelligence-natural-language-generation/
 https://www.marketingaiinstitute.com/blog/the-beginners-guide-to-using-natural-language-generation-to-scale-content-marketing
+https://www.youtube.com/watch?v=1I6bQ12VxV0 
 
 # What is Descriptive Statistics?
 https://www.investopedia.com/terms/d/descriptive_statistics.asp
